@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Principal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ exibirMenu()
+comment3.params=
+comment3.target=Loja\ novaLoja()
+comment4.params=
+comment4.target=Produto\ novoProduto()
+comment5.params=mensagem
+comment5.target=Endereco\ novoEndereco(java.lang.String)
+comment6.params=mensagemInicial
+comment6.target=Data\ novaData(java.lang.String)
+numComments=7
